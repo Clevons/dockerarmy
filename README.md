@@ -6,7 +6,7 @@ Intended for use in portable locally hosted CTF's
 
 If mulitple ports needs to be opened you have to hardcode it at line 62 and in your iptables configuration
 
-If multiple images needs to be used, you have to at them in a loop like on line 59-62
+If multiple images needs to be used, you have to add them in a loop like on line 59-62
 
 ## Usage
 
