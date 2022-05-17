@@ -1,5 +1,10 @@
 # Dockerarmy
 script to spin up multipe dockerinstance on multiple virtual interfaces
+Intended for use in portable locally hosted CTF's
+
+Litations:
+If mulitple ports needs to be opened you have to hardcode it at line 62 and in your iptables configuration
+if multiple images needs to be used, you have to at them in a loop like on line 59-62
 
 ## Usage
 
