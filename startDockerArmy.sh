@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+# By Nis Peter Wendtland Henriksen
+# Date 17-05-2022
+# https://github.com/ninja-nis/dockerarmy/
+
 # Please fill out config.sh file to set up variables
 # sourcing variables from config.sh
 if test -f config.sh; then
